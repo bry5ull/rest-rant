@@ -22,8 +22,8 @@ function placesIndex (data) {
       <Def>
           <main>
               <h1>Rest-RANT: Rants and raves and routes</h1>
-              <div className="row"
-              >{placesFormatted}
+              <div className="row">
+                {placesFormatted}
               </div>
               
           </main>
