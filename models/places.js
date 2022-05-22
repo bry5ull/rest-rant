@@ -3,19 +3,19 @@ module.exports = [{
     name: 'H-Thai-ML',
     city: 'Seattle',
     state: 'WA',
-    cuisines: 'Thai, Pan-Asian',
+    cuisines: 'Thai, Pan-Asian, Tag Soup',
     pic: '/images/html.jpg'
 }, {
     name: 'Coding Cat Cafe',
     city: 'Phoenix',
     state: 'AZ',
-    cuisines: 'Coffee, Bakery',
+    cuisines: 'Coffee, WiFi, Smartycats',
     pic: '/images/cat.jpg'
 }, {
     name: `Paulie's Pizza`,
     city: 'Chicago',
     state: 'IL',
-    cuisines: `Buttercrust Pizza, that's it`,
+    cuisines: `Buttercrust Pizza, "You got a problem with that?"`,
     pic: '/images/pizza.jpg'
 }, {
     name: 'Sodium Expensive',
